@@ -51,7 +51,7 @@
         android:layout_height="wrap_content"
         android:text="测试控件" />
 
-    <com.wang.hongbaotest.TouchView
+    <com.heine.dennis.hongbaotest.TouchView
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </LinearLayout>
