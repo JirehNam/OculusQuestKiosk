@@ -1,6 +1,6 @@
-An autostart (half-way kiosk mode) for the Quest AppLauncher on the Oculus Quest 1/2
-Why only half way? Because it does not restart the AppLauncher after it has been exited, and the menu button is not being disabled.
-This is a fork of https://github.com/weimingjue/AccessibilityExample
+An autostart (half-way kiosk mode) for the Quest AppLauncher on the Oculus Quest 1/2<br>
+Why only half way? Because it does not restart the AppLauncher after it has been exited, and the menu button is not being disabled.<br>
+This is a fork of https://github.com/weimingjue/AccessibilityExample<br>
 
 1.) Install the QuestAppLauncher<br>
 https://github.com/tverona1/QuestAppLauncher
