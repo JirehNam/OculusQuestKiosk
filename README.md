@@ -23,7 +23,6 @@ Start QuestKiosk through the "unknown sources" menu
 
 7.) Enable the accessibility service<br>
 Enable QuestKiosk by clicking on it in the accessibility settings.<br>
-They should show up after the AppLauncher has exited.
 
 8.) Restart<br>
 Restart your Oculus Quest 1/2
