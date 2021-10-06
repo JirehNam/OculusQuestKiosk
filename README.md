@@ -21,12 +21,9 @@ https://github.com/DennisHeine/OculusQuestKiosk/releases/tag/v1.0
 6.) Start QuestKiosk <br>
 Start QuestKiosk through the "unknown sources" menu
 
-7.) Exit the AppLauncher (dumb step, couldn't fix it)<br>
-Exit the AppLauncher through the Oculus menu
-
-8.) Enable the accessibility service<br>
+7.) Enable the accessibility service<br>
 Enable QuestKiosk by clicking on it in the accessibility settings.<br>
 They should show up after the AppLauncher has exited.
 
-9.) Restart<br>
+8.) Restart<br>
 Restart your Oculus Quest 1/2
