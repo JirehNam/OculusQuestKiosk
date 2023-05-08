@@ -25,7 +25,10 @@ Start QuestKiosk through the "unknown sources" menu
 Enable QuestKiosk<br>
 <b>UPDATE NEW FIRMWARE:</b> <br>
 -install ADB and grant debugging permissions inside the headset<br>
+https://dl.google.com/android/repository/platform-tools-latest-windows.zip<br>
+br>
 -run the following command: adb shell settings put secure enabled_accessibility_services com.heine.dennis.hongbaotest/com.heine.dennis.QuestKiosk.HongBaoService<br>
+
 <br>
 8.) Restart<br>
 Restart your Oculus Quest 1/2
