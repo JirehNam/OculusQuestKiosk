@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=mxzkVtrUWzc
 https://uploadvr.com/how-to-disable-quest-guardian/
 
 4.) Enable Multitasking<br>
-https://vrscout.com/news/oculus-quest-update-multitasking-mic-swap-more/
-
+No longer required<br>
+<br>
 5.) Install QuestKiosk through SideQuest<br>
 https://sidequestvr.com/<br>
 https://github.com/DennisHeine/OculusQuestKiosk/releases/tag/v1.0
